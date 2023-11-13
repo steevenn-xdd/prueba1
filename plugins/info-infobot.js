@@ -46,7 +46,7 @@ const handler = async (m, { conn, usedPrefix }) => {
   ];
   const document = doc[Math.floor(Math.random() * doc.length)];
   const Message = {
-    document: { url: `https://github.com/BrunoSobrino/TheMystic-Bot-MD` },
+    document: { url: `https://github.com/Monkey-Cab-bot/Monkey-Cab` },
     mimetype: `application/${document}`,
     contextInfo: {
       forwardingScore: 200,

@@ -1,5 +1,5 @@
 {
-  "name": "TheMystic-Bot-MD",
+  "name": "monkeycab",
   "version": "1.0.0",
   "description": "Subs. al canal de YT The Shadow Borkers - TEAM",
   "main": "index.js",
@@ -16,16 +16,9 @@
     "eslint": "eslint .",
     "eslintfix": "eslint --fix ."
   },
-  "homepage": "https://github.com/BrunoSobrino/TheMystic-Bot-MD",
+  "homepage": "https://github.com/Monkey-Cab-bot/Monkey-Cab",
   "author": {
-    "name": "BrunoSobrino"
-  },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/BrunoSobrino/TheMystic-Bot-MD.git"
-  },
-  "bugs": {
-    "url": "https://github.com/BrunoSobrino/TheMystic-Bot-MD/issues"
+    "name": "Monkey-Cab-bot"
   },
   "license": "GPL-3.0-or-later",
   "dependencies": {
@@ -86,7 +79,7 @@
     "terminal-image": "^2.0.0",
     "url-regex-safe": "^3.0.0",
     "wa-sticker-formatter": "^4.3.2",
-    "yargs": "^17.3.1",
+    "yargs": "^17.3.1"
   },
   "devDependencies": {
     "eslint": "^8.45.0",
